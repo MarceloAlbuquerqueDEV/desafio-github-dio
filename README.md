@@ -1,5 +1,5 @@
 
->  Projeto Git/GitHub da  DIO  
+> Projeto __Git/GitHub__ da DIO
 >
 >  Repositório criado para desafio da DIO
 
